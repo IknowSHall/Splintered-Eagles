@@ -1,0 +1,27 @@
+## KEEP THIS FILE HERE
+## This file is to indicate to the game that there are *2* bookmarks, but I modified the GUI placement so it only shows one and hides the other
+
+
+bookmarks = {
+	bookmark = {
+		name = "FIRST_SPARK_NAME"
+		desc = "FIRST_SPARK_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+		
+		"FRA"={
+			history = "FRA_FIRST_SPARK_DESC"
+			ideology = democratic 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
