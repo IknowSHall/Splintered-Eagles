@@ -1,4 +1,4 @@
-# Splintered-Eagles
+# Splintered Eagles
 
-This is a mod made from Paradox's "Heart's of Iron IV", developed by a team of volenteer game developers.
+This is a mod made from Paradox's "Heart's of Iron IV", developed by a team of volunteer game developers.
  
