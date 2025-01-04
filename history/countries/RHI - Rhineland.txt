@@ -1,4 +1,4 @@
-capital = 52
+capital = 51
 
 # Starting tech
 set_technology = {
@@ -83,25 +83,30 @@ if = {
 set_research_slots = 3
 set_convoys = 50
 set_stability = 0.75
-
+FRA = {
+	set_autonomy = {
+    	target = RHI
+    	autonomous_state = autonomy_puppet
+    	end_wars = no
+    	end_civil_wars = no
+	}
+}
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = democratic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 
 }
 set_popularities = {
-	neutrality = 70
-	democratic = 0
-	fascism = 5
-	communism = 25
+	democratic = 60
+	fascism = 10
+	communism = 20
+	neutrality = 10
 }
 
 add_ideas = {
 }
 
-recruit_character = BAY_rupprecht_of_bavaria 
-
-
+recruit_character = RHI_josef_friedrich_matthes 

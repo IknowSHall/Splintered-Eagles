@@ -10,7 +10,7 @@ state = {
 	
 	history = {
 
-		owner = GER
+		owner = RHI
 		add_core_of = GER
 		add_core_of = RHI
 		add_core_of = PRE
@@ -43,12 +43,6 @@ state = {
 				air_base = 6
 				radar_station = 1
 			}
-		}
-	
-		set_demilitarized_zone = yes
-	
-		1936.3.7 = {
-			set_demilitarized_zone = no
 		}
 	}
 
