@@ -16,7 +16,7 @@ bookmarks = {
 			}
 		}
 
-		"USA"={
+		"USA" = {
 			history = "USA_FIRST_SPARK_DESC"
 			ideology = democratic
 			ideas = {
@@ -25,7 +25,7 @@ bookmarks = {
 			}
 		}
 
-		"ENG"={
+		"ENG" = {
 			history = "ENG_FIRST_SPARK_DESC"
 			ideology = democratic
 			ideas = {
@@ -34,7 +34,7 @@ bookmarks = {
 			}
 		}
 
-		"GER" = {S
+		"GER" = {
 			history = "GER_FIRST_SPARK_DESC"
 			ideology = fascism
 			ideas = {
@@ -43,7 +43,7 @@ bookmarks = {
 			}
 		}
 
-		"ITA"={
+		"ITA" = {
 			history = "ITA_FIRST_SPARK_DESC"
 			ideology = fascism
 			ideas = {
@@ -52,7 +52,7 @@ bookmarks = {
 			}		
 		}
 
-		"JAP"={
+		"JAP" = {
 			history = "JAP_FIRST_SPARK_DESC"
 			ideology = fascism
 			ideas = {
@@ -61,7 +61,7 @@ bookmarks = {
 			}			
 		}
 
-		"SOV"={
+		"SOV" = {
 			history = "SOV_FIRST_SPARK_DESC"
 			ideology = communism
 			ideas = {
@@ -69,8 +69,8 @@ bookmarks = {
 			focuses = {
 			}	
 		}
-		"---"={
-			history = "OTHER_FIRST_SPARK_DESC"
-		}
+		#"---"={
+		#	history = "OTHER_FIRST_SPARK_DESC"
+		#}
 	}
 }
