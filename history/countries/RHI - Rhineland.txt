@@ -83,14 +83,6 @@ if = {
 set_research_slots = 3
 set_convoys = 50
 set_stability = 0.75
-FRA = {
-	set_autonomy = {
-    	target = RHI
-    	autonomous_state = autonomy_puppet
-    	end_wars = no
-    	end_civil_wars = no
-	}
-}
 
 set_politics = {
 	ruling_party = democratic
