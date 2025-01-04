@@ -1,0 +1,76 @@
+bookmarks = {
+	bookmark = {
+		name = "FIRST_SPARK_NAME"
+		desc = "FIRST_SPARK_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+		
+		"FRA"={
+			history = "FRA_FIRST_SPARK_DESC"
+			ideology = democratic 
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"USA"={
+			history = "USA_FIRST_SPARK_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"ENG"={
+			history = "ENG_FIRST_SPARK_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"GER" = {S
+			history = "GER_FIRST_SPARK_DESC"
+			ideology = fascism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"ITA"={
+			history = "ITA_FIRST_SPARK_DESC"
+			ideology = fascism
+			ideas = {
+			}	
+			focuses = {
+			}		
+		}
+
+		"JAP"={
+			history = "JAP_FIRST_SPARK_DESC"
+			ideology = fascism
+			ideas = {
+			}	
+			focuses = {
+			}			
+		}
+
+		"SOV"={
+			history = "SOV_FIRST_SPARK_DESC"
+			ideology = communism
+			ideas = {
+			}
+			focuses = {
+			}	
+		}
+		"---"={
+			history = "OTHER_FIRST_SPARK_DESC"
+		}
+	}
+}
