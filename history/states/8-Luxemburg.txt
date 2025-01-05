@@ -10,21 +10,20 @@ state=
 		steel=14 # was: 5
 	}
 
-	history=
-	{
-		owner = LUX
+	history = {
+		owner = BEL
+		add_core_of = BEL
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 3
 		}
 		victory_points = { 6583 5 }
-		add_core_of = LUX
 	}
 
-	provinces=
-	{
-6583 	}
+	provinces={
+		6583 	
+	}
 
 	local_supplies=0.0 
 }
