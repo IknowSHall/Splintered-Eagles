@@ -13,7 +13,9 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = CAN
+		add_core_of = CAN
+		add_claim_by = USA
 		buildings = {
 			infrastructure = 2
 		}

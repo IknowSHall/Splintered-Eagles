@@ -12,7 +12,9 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = MEX
+		add_core_of = MEX
+		add_claim_by = USA
 		buildings = {
 			infrastructure = 3 #was: 6
 			arms_factory = 2
