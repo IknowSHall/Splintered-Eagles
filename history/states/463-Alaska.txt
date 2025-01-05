@@ -3,7 +3,9 @@ state={
 	name="STATE_463"
 
 	history={
-		owner = USA
+		owner = CAN
+		add_claim_by = CAN
+		add_claim_by = SOV
 		buildings = {
 			infrastructure = 1
 			air_base = 1
