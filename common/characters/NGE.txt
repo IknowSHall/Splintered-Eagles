@@ -1,0 +1,10 @@
+characters = {
+	NGE_oswald_spengler = {
+		name = NGE_oswald_spengler
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_NGE_Oswald_Spengler_large"
+			}
+		}
+	}
+}

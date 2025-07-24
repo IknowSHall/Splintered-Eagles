@@ -1,0 +1,10 @@
+spriteTypes = {
+
+	## NGE ##
+
+	spriteType = {
+		name = GFX_portrait_NGE_Oswald_Spengler_large
+		texturefile = "gfx/leaders/NGE/portrait_NGE_Oswald_Spengler_large.dds"
+	}
+
+}
