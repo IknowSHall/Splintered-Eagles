@@ -1,6 +1,5 @@
 name="Splintered Eagles"
 replace_path="common/scripted_localisation"
-replace_path="history/countries"
 replace_path="history/general"
 replace_path="history/states"
 replace_path="history/units"
