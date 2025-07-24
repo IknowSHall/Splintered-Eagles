@@ -47,9 +47,7 @@ set_convoys = 20
 
 
 set_politics = {
-	ruling_party = communism
-	last_election = "1936.1.1"
-	election_frequency = 48
+	ruling_party = auth_left
 	elections_allowed = no
 }
 
@@ -57,14 +55,17 @@ add_country_leader_role = {
 	character = NGE_oswald_spengler
 	promote_leader = yes
 	country_leader = {
-		ideology = marxism
-		expire = "1936.5.8"
+		ideology = prussian_socialism
 	}
 }
 
 set_popularities = {
-	democratic = 32
-	fascism = 18
-	communism = 38
-	neutrality = 12
+	communism = 4 #libertarianism
+	auth_left = 33
+	democratic = 15 #electoral left
+	auth_center = 3
+	electoral_center = 16
+	electoral_right = 21
+	neutrality = 5 #authoritarian right
+	fascism = 3 #esoteric
 }
