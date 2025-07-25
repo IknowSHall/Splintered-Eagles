@@ -5,9 +5,8 @@ state = {
 	state_category = minor_port
 
 	history = {
-		owner = ENG
-		add_core_of = SHD
-		add_claim_by = ENG
+		owner = CHI
+		add_core_of = CHI
 		add_to_array = { state_victory_points = 13670 } # Weihaiwei
 
 		buildings = {
