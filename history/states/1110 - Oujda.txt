@@ -9,7 +9,8 @@ state = {
 	}
 
 	history = {
-		owner = MOR
+		owner = ALG
+		add_core_of = ALG
 		add_core_of = MOR
 		add_to_array = { state_victory_points = 989 }
 		add_to_array = { state_victory_points = 7908 } #VP added via Moroccan content later
