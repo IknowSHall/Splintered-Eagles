@@ -5,9 +5,9 @@ state = {
 	state_category = four
 
 	history = {
-		owner = ZAM
+		owner = POR
 		add_core_of = MZB
-		add_claim_by = ZAM
+		add_claim_by = POR
 		add_to_array = { state_victory_points = 2120 }
 		add_to_array = { state_victory_points = 5212 }
 		add_to_array = { state_victory_points = 8245 }
