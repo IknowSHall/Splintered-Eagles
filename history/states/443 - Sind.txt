@@ -6,8 +6,8 @@ state = {
 	local_supplies = 7.0
 
 	history = {
-		owner = KHL
-		add_core_of = KHL
+		owner = BLC
+		add_core_of = BLC
 		add_to_array = { state_victory_points = 3456 }
 		add_to_array = { state_victory_points = 4110 }
 
