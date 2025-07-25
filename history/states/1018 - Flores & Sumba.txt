@@ -6,8 +6,7 @@ state = {
 	local_supplies = 1.0
 
 	history = {
-		owner = DEI
-		add_core_of = DEI
+		owner = INS
 		add_core_of = INS
 		add_to_array = { state_victory_points = 4301 }
 

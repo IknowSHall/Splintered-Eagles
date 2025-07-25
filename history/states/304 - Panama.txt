@@ -5,8 +5,8 @@ state = {
 	state_category = three
 
 	history = {
-		owner = PAN
-		add_core_of = PAN
+		owner = COL
+		add_core_of = COL
 		add_to_array = { state_victory_points = 13681 }
 		add_to_array = { state_victory_points = 13683 }
 

@@ -9,8 +9,8 @@ state = {
 	}
 
 	history = {
-		owner = CUB
-		add_core_of = CUB
+		owner = USA
+		add_core_of = USA
 		add_to_array = { state_victory_points = 1550 }
 
 		buildings = {

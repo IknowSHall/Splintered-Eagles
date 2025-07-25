@@ -9,9 +9,9 @@ state = {
 	}
 
 	history = {
-		owner = GEA
+		owner = ENG
 		add_core_of = SSI
-		add_claim_by = GEA
+		add_claim_by = ENG
 
 		add_to_array = { state_victory_points = 4268 }
 		add_to_array = { state_victory_points = 12120 }

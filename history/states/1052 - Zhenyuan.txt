@@ -9,10 +9,8 @@ state = {
 	}
 
 	history = {
-		owner = HNN
-		add_core_of = HNN
-		add_core_of = YUN
-		add_claim_by = LEP
+		owner = CHI
+		add_core_of = CHI
 
 		add_to_array = { state_victory_points = 7577 } #Kaili
 

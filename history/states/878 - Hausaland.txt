@@ -5,15 +5,15 @@ state = {
 	state_category = two
 
 	history = {
-		owner = MAF
+		owner = ZAM
 		add_core_of = NGA
-		add_claim_by = MAF
+		add_claim_by = ZAM
 
 		add_to_array = { state_victory_points = 13214 }
 		add_to_array = { state_victory_points = 1969 }
 		add_to_array = { state_victory_points = 1891 }
 
-		add_dynamic_modifier = { modifier = MAF_british_nigeria }
+		add_dynamic_modifier = { modifier = ZAM_british_nigeria }
 		set_demilitarized_zone = yes
 
 		buildings = {

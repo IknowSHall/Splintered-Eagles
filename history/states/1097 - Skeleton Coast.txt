@@ -6,9 +6,9 @@ state = {
 	impassable = yes
 
 	history = {
-		owner = MAF
+		owner = ZAM
 		add_core_of = NMB
-		add_claim_by = MAF
+		add_claim_by = ZAM
 
 		buildings = {
 			infrastructure = 1

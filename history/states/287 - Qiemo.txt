@@ -12,7 +12,6 @@ state = {
 	history = {
 		owner = SIK
 		add_core_of = SIK
-		add_core_of = ETS
 		add_to_array = { state_victory_points = 13390 } #Qiemo
 		victory_points = { 13390 5 } #POP 1 + STRAT 2 + POL 0 = SIG 2
 		buildings = {

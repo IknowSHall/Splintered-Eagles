@@ -5,9 +5,9 @@ state = {
 	state_category = zero_island
 
 	history = {
-		owner = HOL
+		owner = FRA
 		add_core_of = WIF
-		add_claim_by = HOL
+		add_claim_by = FRA
 		buildings = {
 			infrastructure = 1
 			13606 = {

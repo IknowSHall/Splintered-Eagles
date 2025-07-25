@@ -6,9 +6,9 @@ state = {
 	local_supplies = 6.0
 
 	history = {
-		owner = MON
-		add_core_of = MON
-		add_core_of = XSM
+		owner = MAN
+		add_core_of = MAN
+		add_core_of = CHI
 		add_to_array = { state_victory_points = 7648 } #Xilinhot
 		victory_points = { 7648 5 } #POP 2 + STRAT 1 + POL 0 = SIG 3
 

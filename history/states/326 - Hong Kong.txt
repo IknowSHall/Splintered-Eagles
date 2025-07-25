@@ -5,8 +5,8 @@ state = {
 	state_category = major_port
 
 	history = {
-		owner = LEC
-		add_core_of = LEC
+		owner = ENG
+		add_core_of = ENG
 		add_to_array = { state_victory_points = 10062 } #Hong Kong
 
 		victory_points = { 10062 15 } #POP 2 + STRAT 2 + POL 1 = SIG 5

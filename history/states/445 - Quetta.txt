@@ -5,11 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-		owner = RAJ
-		add_core_of = RAJ
-		add_claim_by = HND
-		add_claim_by = PRF
-		add_claim_by = AFG
+		owner = KHL
+		add_core_of = KHL
 		add_to_array = { state_victory_points = 5105 }
 
 		victory_points = { 5105 1 } #Quetta

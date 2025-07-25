@@ -5,10 +5,9 @@ state = {
 	state_category = one
 
 	history = {
-		owner = CHL
-		add_core_of = CHL
-		add_claim_by = PRU
-		add_claim_by = BOL
+		owner = BOL
+		add_core_of = BOL
+		add_claim_by = CHL
 		add_to_array = { state_victory_points = 13510 }
 
 		victory_points = { 13510 4 } #Iquique

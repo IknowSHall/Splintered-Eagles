@@ -5,8 +5,8 @@ state = {
 	state_category = two
 
 	history = {
-		owner = FNG
-		add_core_of = FNG
+		owner = MAN
+		add_core_of = MAN
 		add_to_array = { state_victory_points = 9623 } #Jiamusi
 		victory_points = { 9623 10 } #POP 2 + STRAT 2 + POL 0 = SIG 4
 

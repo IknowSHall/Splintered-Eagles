@@ -6,7 +6,7 @@ state = {
 	impassable = yes
 
 	history = {
-		owner = BRA
+		owner = BOL
 		add_core_of = BRA
 		add_claim_by = BOL
 

@@ -9,8 +9,7 @@ state = {
 	}
 
 	history = {
-		owner = DEI
-		add_core_of = DEI
+		owner = INS
 		add_core_of = PNG
 		add_claim_by = INS
 		add_to_array = { state_victory_points = 10505 }

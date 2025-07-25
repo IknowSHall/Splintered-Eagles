@@ -6,8 +6,8 @@ state = {
 	impassable = yes
 
 	history = {
-		owner = WIF
-		add_core_of = WIF
+		owner = ENG
+		add_core_of = ENG
 		add_core_of = GYA
 		add_claim_by = VEN
 

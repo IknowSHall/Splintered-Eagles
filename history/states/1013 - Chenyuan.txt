@@ -9,9 +9,8 @@ state = { #Chenyuan
 	}
 
 	history = {
-		owner = HNN
-		add_core_of = HNN
-		add_claim_by = LEP
+		owner = CHI
+		add_core_of = CHI
 		add_to_array = { state_victory_points = 7101 } #Changde
 
 		victory_points = { 7101 20 } #POP 4 + STRAT 2 + POL 0 = SIG 6

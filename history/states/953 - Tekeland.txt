@@ -5,9 +5,9 @@ state = {
 	state_category = one #This state shoulnd't have a slot but it has one for balance reasons
 
 	history = {
-		owner = MAF
+		owner = ZAM
 		add_core_of = COG
-		add_claim_by = MAF
+		add_claim_by = ZAM
 
 		add_to_array = { state_victory_points = 3109 }
 

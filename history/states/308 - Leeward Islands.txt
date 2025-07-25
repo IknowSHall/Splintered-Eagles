@@ -5,8 +5,8 @@ state = {
 	state_category = one_island
 
 	history = {
-		owner = WIF
-		add_core_of = WIF
+		owner = ENG
+		add_core_of = ENG
 
 		buildings = {
 			infrastructure = 1

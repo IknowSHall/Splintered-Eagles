@@ -6,9 +6,8 @@ state = {
 	local_supplies = 1.0
 
 	history = {
-		owner = SHD
-		add_core_of = SHD
-		add_claim_by = CHI
+		owner = CHI
+		add_core_of = CHI
 		add_to_array = { state_victory_points = 1124 } #Linyi
 
 		victory_points = { 1124 15 }  #POP 5 + STRAT 0 + POL 0 = SIG 5

@@ -9,10 +9,10 @@ state = {
 	}
 
 	history = {
-		owner = BRM
-		add_core_of = SHA
+		owner = SIA
+		add_core_of = SIA
 		add_core_of = BRM
-		add_claim_by = SIA
+		add_claim_by = RAJ
 		add_to_array = { state_victory_points = 7603 }
 
 		buildings = {

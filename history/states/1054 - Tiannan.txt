@@ -5,9 +5,8 @@ state = {
 	state_category = three
 
 	history = {
-		owner = GXC
-		add_core_of = GXC
-		add_claim_by = LEP
+		owner = CHI
+		add_core_of = CHI
 		add_to_array = { state_victory_points = 10459 } #Baise
 		victory_points = { 10459 3 } #POP 1 + STRAT 1 + POL 0 = SIG 2
 

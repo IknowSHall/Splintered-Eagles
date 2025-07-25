@@ -5,10 +5,8 @@ state = {
 	state_category = wasteland
 
 	history = {
-		owner = SPA
+		owner = MOR
 		add_core_of = MOR
-		add_core_of = MRT
-		add_claim_by = SPA
 		add_to_array = { state_victory_points = 13886 }
 
 		victory_points = { 13886 2 } #El Aaiun

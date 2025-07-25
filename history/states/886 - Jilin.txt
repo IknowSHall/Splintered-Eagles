@@ -5,8 +5,8 @@ state = {
 	state_category = four
 
 	history = {
-		owner = FNG
-		add_core_of = FNG
+		owner = MAN
+		add_core_of = MAN
 		add_to_array = { state_victory_points = 4572 } #Changchun
 		add_to_array = { state_victory_points = 7663 } #Jilin
 

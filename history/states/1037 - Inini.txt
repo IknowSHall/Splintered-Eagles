@@ -6,8 +6,8 @@ state = {
 	impassable = yes
 
 	history = {
-		owner = WIF
-		add_core_of = WIF
+		owner = END
+		add_core_of = ENG
 		add_core_of = ANT
 		buildings = {
 			infrastructure = 1

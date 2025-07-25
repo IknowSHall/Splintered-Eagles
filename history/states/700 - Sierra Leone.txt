@@ -9,7 +9,7 @@ state = {
 	}
 
 	history = {
-		owner = NFA
+		owner = FRA
 		add_core_of = SIE
 		
 

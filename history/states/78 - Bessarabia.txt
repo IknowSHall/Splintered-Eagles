@@ -6,8 +6,8 @@ state = {
 	local_supplies = 4.0
 
 	history = {
-		owner = ROM
-		add_core_of = ROM
+		owner = RUS
+		add_core_of = RUS
 		add_to_array = { state_victory_points = 3707 }
 		add_to_array = { state_victory_points = 6727 }
 		victory_points = { 3707 10 }
