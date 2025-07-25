@@ -5,8 +5,7 @@ state = {
 	state_category = four
 
 	history = {
-		owner = TUR
-		add_core_of = TUR
+		owner = GRE
 		add_core_of = GRE
 		add_to_array = { state_victory_points = 11818 }
 
@@ -23,7 +22,7 @@ state = {
 	}
 
 	provinces = {
-		895 3526 3936 10163 11818 
+		895 3936 11818
 	}
 }
 
