@@ -5,10 +5,8 @@ state = {
 	state_category = minor_port
 
 	history = {
-		owner = ZAM
-		add_core_of = ANG
+		owner = COG
 		add_core_of = COG
-		add_claim_by = ZAM
 		add_to_array = { state_victory_points = 2115 }
 
 		buildings = {

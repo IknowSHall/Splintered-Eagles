@@ -5,9 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-		owner = ZAM
+		owner = ANG
 		add_core_of = ANG
-		add_claim_by = ZAM
 		add_to_array = { state_victory_points = 13650 }
 		add_to_array = { state_victory_points = 13759}
 
