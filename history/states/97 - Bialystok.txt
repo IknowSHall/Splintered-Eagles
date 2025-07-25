@@ -10,7 +10,7 @@ state = {
 	}
 
 	history = {
-		owner = ROM
+		owner = POL
 		add_core_of = POL
 		add_to_array = { state_victory_points = 3254 }
 		add_to_array = { state_victory_points = 11301 }
