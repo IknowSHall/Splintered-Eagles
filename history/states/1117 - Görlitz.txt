@@ -1,0 +1,18 @@
+state = {
+	id = 1117
+	name = "STATE_1117"
+	manpower = 300000
+	state_category = one
+	local_supplies = 8.0
+
+  history = {
+    owner = NGE
+    add_core_of = NGE
+		add_to_array = { state_victory_points = 11517 }
+    victory_points = { 11517 2 }
+  }
+
+  provinces = {
+   3438 3572 6534 6595 11517
+  }
+}
