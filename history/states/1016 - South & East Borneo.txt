@@ -10,8 +10,9 @@ state = {
 	}
 
 	history = {
-		owner = INS
+		owner = RAJ
 		add_core_of = INS
+		add_claim_by = RAJ
 		add_to_array = { state_victory_points = 1404 }
 		add_to_array = { state_victory_points = 1225 }
 		add_to_array = { state_victory_points = 10237 }
