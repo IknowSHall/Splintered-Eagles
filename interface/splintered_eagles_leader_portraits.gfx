@@ -18,4 +18,12 @@ spriteTypes = {
 		name = GFX_portrait_NGE_Wilhelm_Groener_large
 		texturefile = "gfx/leaders/NGE/portrait_NGE_Wilhelm_Groener_large.dds"
 	}
+	spriteType = {
+		name = GFX_portrait_NGE_Wilhelm_Marx_large
+		texturefile = "gfx/leaders/NGE/portrait_NGE_Wilhelm_Marx_large.dds"
+	}
+	spriteType = {
+		name = GFX_portrait_NGE_Ulrich_von_Hassell_large
+		texturefile = "gfx/leaders/NGE/portrait_NGE_Ulrich_von_Hassell_large.dds"
+	}
 }

@@ -40,4 +40,26 @@ characters = {
 			}
 		}
 	}
+	NGE_wilhelm_marx = {
+		name = NGE_wilhelm_marx
+		country_leader = {
+			ideology = christian_democracy
+		}
+		portraits = {
+			civilian = {
+				large = GFX_portrait_NGE_Wilhelm_Marx_large
+			}
+		}
+	}
+	NGE_ulrich_von_hassell = {
+		name = NGE_ulrich_von_hassell
+		country_leader = {
+			ideology = right_wing_populism
+		}
+		portraits = {
+			civilian = {
+				large = GFX_portrait_NGE_Ulrich_von_Hassell_large
+			}
+		}
+	}
 }

@@ -9,6 +9,8 @@ recruit_character = NGE_oswald_spengler
 recruit_character = NGE_adolf_brand
 recruit_character = NGE_sopade_party_commission
 recruit_character = NGE_wilhelm_groener
+recruit_character = NGE_wilhelm_marx
+recruit_character = NGE_ulrich_von_hassell
 
 set_convoys = 20
 
