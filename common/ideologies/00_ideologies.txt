@@ -458,6 +458,9 @@ ideologies = {
 
 
 			#Splintered Eagles
+			military_junta_esoteric_right = {
+			}
+			
 			theocratism = {
 			}
 

@@ -26,4 +26,8 @@ spriteTypes = {
 		name = GFX_portrait_NGE_Ulrich_von_Hassell_large
 		texturefile = "gfx/leaders/NGE/portrait_NGE_Ulrich_von_Hassell_large.dds"
 	}
+	spriteType = {
+		name = GFX_portrait_NGE_Franz_Ritter_von_Epp_large
+		texturefile = "gfx/leaders/NGE/portrait_NGE_Franz_Ritter_von_Epp_large.dds"
+	}
 }

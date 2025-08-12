@@ -62,4 +62,18 @@ characters = {
 			}
 		}
 	}
+	NGE_franz_ritter_von_epp = {
+		name = NGE_franz_ritter_von_epp
+		country_leader = {
+			ideology = military_junta_auth_right
+		}
+		country_leader = {
+			ideology = military_junta_esoteric_right
+		}
+		portraits = {
+			civilian = {
+				large = GFX_portrait_NGE_Franz_Ritter_von_Epp_large
+			}
+		}
+	}
 }
