@@ -199,6 +199,9 @@ ideologies = {
 
 		types = {
 
+			military_junta_auth_center = {
+			}
+
 			monarchism = {
 			}
 
@@ -386,7 +389,7 @@ ideologies = {
 				can_be_randomly_selected = no } ###THESE ARE VANNILA SUBIDEOLOGIES DO NOT USE THEM AT ALL###
 
 			#Splintered Eagles
-			military_junta = {
+			military_junta_auth_right = {
 			}
 
 			absolute_monarchsim = {
