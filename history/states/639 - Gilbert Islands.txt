@@ -5,9 +5,8 @@ state = {
 	state_category = zero_island
 
 	history = {
-		owner = GEA
-		add_core_of = SSI
-		add_claim_by = GEA
+		owner = ENG
+		add_core_of = ENG
 
 		add_to_array = { state_victory_points = 13021 }
 
