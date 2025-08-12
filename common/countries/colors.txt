@@ -1108,8 +1108,8 @@ KUR = {
 	color_ui = rgb { 255 153 0 }	
 }
 NGE = {
-	color = rgb { 193 153 91 }
-	color_ui = rgb { 193 153 91 }
+	color = rgb { 130 95 45 }
+	color_ui = rgb { 130 95 45 }
 }
 SPA = {
 	color = rgb { 242 205 94 }
