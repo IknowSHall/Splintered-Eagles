@@ -20,7 +20,7 @@ characters = {
 		}
 	}
 	FRA_hermann_bickler = {
-		name = FRA_Hermann_Bickler
+		name = FRA_hermann_bickler
 		country_leader = {
 			ideology = radical_seperatism
 		}
@@ -44,7 +44,7 @@ characters = {
 	FRA_marie_bonaparte = {
 		name = FRA_marie_bonaparte
 		country_leader = {
-			ideology = radical_bonapartism
+			ideology = traditional_marxism
 		}
 		portraits = {
 			civilian = {
