@@ -6,7 +6,8 @@ state = {
 	impassable = yes
 
 	history = {
-		owner = FRA
+		owner = ALG
+		add_claim_by = ALG
 		add_core_of = NGR
 		
 
