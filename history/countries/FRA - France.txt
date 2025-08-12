@@ -808,8 +808,8 @@ add_country_leader_role = {
 }
 
 set_popularities = {
-	communism = 2 #libertarianism
-	auth_left = 6
+	communism = 0 #libertarianism
+	auth_left = 8
 	democratic = 27 #electoral left
 	auth_center = 5
 	electoral_center = 30
