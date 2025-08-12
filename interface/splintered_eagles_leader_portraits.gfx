@@ -10,5 +10,8 @@ spriteTypes = {
 		name = GFX_portrait_NGE_Adolf_Brand_large
 		texturefile = "gfx/leaders/NGE/portrait_NGE_Adolf_Brand_large.dds"
 	}
-
+	spriteType = {
+		name = GFX_portrait_NGE_sopade_party_commission_large
+		texturefile = "gfx/leaders/NGE/portrait_NGE_sopade_party_commission_large.dds"
+	}
 }

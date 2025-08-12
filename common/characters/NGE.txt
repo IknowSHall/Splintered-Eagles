@@ -18,4 +18,15 @@ characters = {
 			}
 		}
 	}
+	NGE_sopade_party_commission = {
+		name = NGE_sopade_party_commission
+		country_leader = {
+			ideology = social_democracy
+		}
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_NGE_sopade_party_commission_large"
+			}
+		}
+	}
 }
