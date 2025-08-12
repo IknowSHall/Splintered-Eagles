@@ -3,8 +3,9 @@
 set_cosmetic_tag = FRENCHEMPIRE
 
 recruit_character = FRA_napoleon_bonaparte_v
-recruit_character = FRA_Hermann_Bickler
-recruit_character = FRA_Henri_Zisly
+recruit_character = FRA_hermann_bickler
+recruit_character = FRA_henri_zisly
+recruit_character = FRA_marie_bonaparte
 
 if = {
 	limit = {

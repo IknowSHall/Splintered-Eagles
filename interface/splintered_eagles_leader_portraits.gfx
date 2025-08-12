@@ -45,4 +45,8 @@ spriteTypes = {
 		name = GFX_portrait_FRA_Henri_Zisly_large
 		texturefile = "gfx/leaders/FRA/portrait_FRA_Henri_Zisly_large.dds"
 	}
+	spriteType = {
+		name = GFX_portrait_FRA_Marie_Bonaparte_large
+		texturefile = "gfx/leaders/FRA/portrait_FRA_Marie_Bonaparte_large.dds"
+	}
 }

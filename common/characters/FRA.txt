@@ -19,7 +19,7 @@ characters = {
 			}
 		}
 	}
-	FRA_Hermann_Bickler = {
+	FRA_hermann_bickler = {
 		name = FRA_Hermann_Bickler
 		country_leader = {
 			ideology = radical_seperatism
@@ -30,14 +30,25 @@ characters = {
 			}
 		}
 	}
-	FRA_Henri_Zisly = {
-		name = FRA_Henri_Zisly
+	FRA_henri_zisly = {
+		name = FRA_henri_zisly
 		country_leader = {
 			ideology = naturism
 		}
 		portraits = {
 			civilian = {
 				large = GFX_portrait_FRA_Henri_Zisly_large
+			}
+		}
+	}
+	FRA_marie_bonaparte = {
+		name = FRA_marie_bonaparte
+		country_leader = {
+			ideology = radical_bonapartism
+		}
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FRA_Marie_Bonaparte_large
 			}
 		}
 	}
