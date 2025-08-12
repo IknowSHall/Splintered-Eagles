@@ -30,4 +30,15 @@ characters = {
 			}
 		}
 	}
+	FRA_Henri_Zisly = {
+		name = FRA_Henri_Zisly
+		country_leader = {
+			ideology = naturism
+		}
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FRA_Henri_Zisly_large
+			}
+		}
+	}
 }

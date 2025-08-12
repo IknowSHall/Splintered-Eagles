@@ -24,6 +24,9 @@ ideologies = {
 			anti_statism = {
 			}
 
+			naturism = {
+			}
+
 			peasant_movement = {
 			}
 		}
