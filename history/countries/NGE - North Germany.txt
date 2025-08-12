@@ -6,6 +6,7 @@ set_technology = {
 }
 
 recruit_character = NGE_oswald_spengler
+recruit_character = NGE_adolf_brand
 
 set_convoys = 20
 

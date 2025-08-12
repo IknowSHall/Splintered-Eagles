@@ -7,4 +7,15 @@ characters = {
 			}
 		}
 	}
+	NGE_adolf_brand = {
+		name = NGE_adolf_brand
+		country_leader = {
+			ideology = egoism
+		}
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_NGE_Adolf_Brand_large"
+			}
+		}
+	}
 }
