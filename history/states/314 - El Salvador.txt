@@ -9,8 +9,8 @@ state = {
 	}
 
 	history = {
-		owner = ELS
-		add_core_of = ELS
+		owner = GUA
+		add_core_of = GUA
 		add_to_array = { state_victory_points = 12823 }
 		add_to_array = { state_victory_points = 13697 }
 

@@ -5,10 +5,8 @@ state = {
 	state_category = wasteland
 
 	history = {
-		owner = RUS
-		add_core_of = RUS
-		add_core_of = TRK
-		add_claim_by = AFG
+		owner = KHL
+		add_core_of = KHL
 
 		buildings = {
 			infrastructure = 1

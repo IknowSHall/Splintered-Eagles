@@ -5,8 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-		owner = NIC
-		add_core_of = NIC
+		owner = COS
+		add_core_of = COS
 		add_to_array = { state_victory_points = 13688 }
 		set_demilitarized_zone = yes
 

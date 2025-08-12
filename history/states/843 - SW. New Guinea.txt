@@ -9,9 +9,9 @@ state = {
 	}
 
 	history = {
-		owner = INS
+		owner = AST
 		add_core_of = PNG
-		add_claim_by = INS
+		add_claim_by = AST
 		add_to_array = { state_victory_points = 10505 }
 
 		victory_points = { 10505 1 }
