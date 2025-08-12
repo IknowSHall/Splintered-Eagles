@@ -19,4 +19,15 @@ characters = {
 			}
 		}
 	}
+	FRA_Hermann_Bickler = {
+		name = FRA_Hermann_Bickler
+		country_leader = {
+			ideology = radical_seperatism
+		}
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FRA_Hermann_Bickler_large
+			}
+		}
+	}
 }

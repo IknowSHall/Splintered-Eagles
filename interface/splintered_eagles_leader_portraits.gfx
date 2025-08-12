@@ -37,4 +37,8 @@ spriteTypes = {
 		name = GFX_portrait_FRA_Napoleon_Bonaparte_V_large
 		texturefile = "gfx/leaders/FRA/portrait_FRA_Napoleon_Bonaparte_V_large.dds"
 	}
+	spriteType = {
+		name = GFX_portrait_FRA_Hermann_Bickler_large
+		texturefile = "gfx/leaders/FRA/portrait_FRA_Hermann_Bickler_large.dds"
+	}
 }

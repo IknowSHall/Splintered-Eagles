@@ -469,6 +469,9 @@ ideologies = {
 
 			futurism = {
 			}
+
+			radical_seperatism = {
+			}
 		}
 
 		dynamic_faction_names = {
