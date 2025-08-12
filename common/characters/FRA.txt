@@ -1,0 +1,22 @@
+characters = {
+	FRA_napoleon_bonaparte_v = {
+		name = FRA_napoleon_bonaparte_v
+		country_leader = {
+			ideology = social_democracy
+		}
+		country_leader = {
+			ideology = classical_bonapartism
+		}
+		country_leader = {
+			ideology = traditional_conservatism
+		}
+		country_leader = {
+			ideology = militarism
+		}
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FRA_Napoleon_Bonaparte_V_large
+			}
+		}
+	}
+}

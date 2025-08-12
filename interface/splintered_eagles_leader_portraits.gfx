@@ -30,4 +30,11 @@ spriteTypes = {
 		name = GFX_portrait_NGE_Franz_Ritter_von_Epp_large
 		texturefile = "gfx/leaders/NGE/portrait_NGE_Franz_Ritter_von_Epp_large.dds"
 	}
+
+	## FRA ##
+
+	spriteType = {
+		name = GFX_portrait_FRA_Napoleon_Bonaparte_V_large
+		texturefile = "gfx/leaders/FRA/portrait_FRA_Napoleon_Bonaparte_V_large.dds"
+	}
 }
