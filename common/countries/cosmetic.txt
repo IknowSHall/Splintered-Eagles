@@ -1,0 +1,4 @@
+FRENCHEMPIRE = {
+	color = rgb { 10 50 115 }
+	color_ui = rgb { 10 50 115 }
+}
