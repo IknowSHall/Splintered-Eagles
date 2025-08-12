@@ -419,12 +419,6 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = yes
 }
-set_popularities = {
-	democratic = 64
-	fascism = 1
-	neutrality = 15
-	communism = 20
-}
 
 add_ideas = {
 	FRA_victors_of_wwi
@@ -1391,4 +1385,15 @@ if = {
 			icon = "GFX_FRA_basic_medium_tank_medium"
 		}
 	}
+}
+
+set_popularities = {
+	communism = 2 #libertarianism
+	auth_left = 6
+	democratic = 27 #electoral left
+	auth_center = 5
+	electoral_center = 30
+	electoral_right = 20
+	neutrality = 9 #authoritarian right
+	fascism = 1 #esoteric
 }
