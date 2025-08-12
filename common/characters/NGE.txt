@@ -29,4 +29,15 @@ characters = {
 			}
 		}
 	}
+	NGE_wilhelm_groener = {
+		name = NGE_wilhelm_groener
+		country_leader = {
+			ideology = military_junta_auth_center
+		}
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_NGE_Wilhelm_Groener_large"
+			}
+		}
+	}
 }
