@@ -44,11 +44,33 @@ characters = {
 	FRA_marie_bonaparte = {
 		name = FRA_marie_bonaparte
 		country_leader = {
-			ideology = traditional_marxism
+			ideology = radical_bonapartism
 		}
 		portraits = {
 			civilian = {
 				large = GFX_portrait_FRA_Marie_Bonaparte_large
+			}
+		}
+	}
+	FRA_edouard_daladier = {
+		name = FRA_edouard_daladier 
+		country_leader = {
+			ideology = radical_liberalism
+		}
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FRA_edouard_daladier
+			}
+		}
+	}
+	FRA_henri_orleans = {
+		name = FRA_henri_orleans
+		country_leader = {
+			ideology = absolute_monarchism
+		}
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FRA_henri_orleans
 			}
 		}
 	}
