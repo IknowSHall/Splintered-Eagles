@@ -11,6 +11,7 @@ state = {
 	history = {
 		owner = GUA
 		add_core_of = GUA
+		add_claim_by = COS
 		add_to_array = { state_victory_points = 10886 }
 		add_to_array = { state_victory_points = 10842 }
 
